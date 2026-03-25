@@ -41,13 +41,13 @@ button:hover {
 body {
     text-align: center;
     background-color:hsl(0, 0%, 12%);
-    padding: 20%;
+    padding: 10%;
     padding-top: 0%;
     
 }
 
 #my_picture {
-    width:40%;
+    width:60%;
     height:10%;
     border-radius: 50%;
 
